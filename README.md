@@ -1,6 +1,6 @@
 # Scientific Figure Templates
 
-Templates for designing figures for a scientific paper. Few journals actually require perfect adherence to style-guides, and practically no one will tell you that you have to match the image bounds of the journal. But why not your figures the best they can be?
+Templates for designing figures for a scientific paper. Few journals actually require perfect adherence to style-guides, and practically no one will tell you that you have to match the image bounds of the journal to the pixel. But why not make your figures the best they can be?
 
 ## Illustrator
 
